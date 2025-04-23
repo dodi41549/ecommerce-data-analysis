@@ -5,6 +5,9 @@ Analyze large-scale e-commerce datasets to understand customer behavior, transac
 📚 Tools
 
 Python
+
 Pandas
+
 Matplotlib & Seaborn
+
 Google Colab
