@@ -28,29 +28,6 @@ EN:
 - Google Colab
 - GitHub
 
-## 🗂 Struktur Direktori (Directory Structure)
-
-project/
-├── data/                  # Dataset asli dan hasil pembersihan (Original dataset and cleaning results)
-│   └── data.zip
-|   └── ecommerce_data_new.zip
-├── images/                # Semua gambar plot (PNG, dll.)
-|   └── Bar Chart.png
-|   └── Bar Plot Top 10 Loyal.png
-|   └── Bar Plot.png
-|   └── Heatmap.png
-|   └── Pie Chart.png
-|   └── Plot Line Chart.png
-├── notebooks/
-│   └── Ecommerce.ipynb
-├── src/
-│   ├── visualization.py
-│   ├── analyst_data.py
-│   └── data_cleaning.py
-|   └── utils.py
-├── requirements.txt       # Daftar library (pandas, matplotlib, seaborn, dll.) (List of libraries (pandas, matplotlib, seaborn, etc.))
-└── README.md              # Penjelasan dan insight project (Project explanation and insight)
-
 
 ## ▶️ Cara Menjalankan Proyek (How to Run the Project)
 
